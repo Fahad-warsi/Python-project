@@ -257,3 +257,26 @@ with tab6:
                 st.title("Other Conversion")
                         # Show table
                 st.dataframe(df, use_container_width=True)
+ 
+st.markdown("---")                
+st.markdown(
+    """
+    <style>
+        .footer{
+            position: fixed,
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: #f1f1f1;
+            color: black;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+    <div class="footer">
+        Develop by <strong>Fahad Warsi</strong>
+    </div>
+    """,
+    unsafe_allow_html=True
+    
+)
