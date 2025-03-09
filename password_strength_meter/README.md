@@ -35,7 +35,15 @@ A Streamlit-based web application to check the strength of your password and gen
 3. Copy the generated password and use it.
 
 ---
+## 📸 Screenshots
 
+### Password Strength Meter
+![Password Strength Meter](screenshots/strength_meter.png)
+
+### Password Generator
+![Password Generator](screenshots/password_generator.png)
+
+---
 🙏 Acknowledgments
 Thanks to Streamlit for the amazing framework.
 
