@@ -35,3 +35,8 @@ A Streamlit-based web application to check the strength of your password and gen
 3. Copy the generated password and use it.
 
 ---
+
+🙏 Acknowledgments
+Thanks to Streamlit for the amazing framework.
+
+Inspired by the need for stronger and more secure passwords.
